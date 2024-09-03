@@ -1,4 +1,4 @@
-#**Business Goal**
+**Business Goal**
 
 Effectiveness of Marketing campaigns are critical for continued success of businesses around the world in the increasingly competitve environment. A rigorous process in understanding the various factors impacting effective campaigns will help improve outcome for future campaigns. This study used to determine factors driving the effectiveness of a marketing campaign based on the data collected from portuguese marketing campaign related to bank deposit subscription
 
